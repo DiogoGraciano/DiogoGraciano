@@ -13,15 +13,6 @@
 
 </div>
 
----
-
-## 📊 Estatísticas do GitHub
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=DiogoGraciano&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-</div>
-
----
-
 ## 👋 Sobre Mim
 
 Sou **Desenvolvedor Full Stack** com sólida experiência em **PHP**, **Laravel**, **JavaScript**, **React** e **React Native**. Atuo no desenvolvimento completo de projetos desde a concepção até a implantação em produção, com domínio em todas as etapas do ciclo de desenvolvimento, incluindo implementação, testes, configuração e publicação em servidores VPS, hospedagens tradicionais e **AWS (Amazon Web Services)**.
