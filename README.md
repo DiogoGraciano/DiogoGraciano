@@ -16,14 +16,8 @@
 ---
 
 ## 📊 Estatísticas do GitHub
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiogoGraciano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoGraciano&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DiogoGraciano&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=DiogoGraciano&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
 ---
@@ -155,16 +149,10 @@ API REST construída com ASP.NET Core para gerenciamento de pedidos e clientes.
 ## 📈 Gráfico de Contribuições
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiogoGraciano&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiogoGraciano&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&title_color=70A5FD" alt="GitHub Activity Graph" />
 </div>
 
----
-
-## 🏆 Troféus GitHub
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=DiogoGraciano&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
-</div>
+> **Nota:** Se as estatísticas não carregarem, pode ser instabilidade temporária dos serviços. Tente atualizar a página.
 
 ---
 
