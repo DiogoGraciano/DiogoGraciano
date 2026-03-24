@@ -9,7 +9,6 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-comin/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoGraciano)
 [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogo.dg691@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548991469070)
 
 </div>
 
@@ -155,7 +154,6 @@ Se você tem um projeto interessante ou quer trocar uma ideia, entre em contato!
 
 [![Email](https://img.shields.io/badge/-diogo.dg691@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogo.dg691@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Diogo%20Comin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-comin/)
-[![WhatsApp](https://img.shields.io/badge/-(48)%2099146--9070-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5548991469070)
 
 </div>
 
