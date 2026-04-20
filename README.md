@@ -1,10 +1,10 @@
-# Olá, eu sou Diogo Graciano! 👋
-
 <div align="center">
 
-## 👨‍💻 Desenvolvedor Full Stack
+# Diogo Graciano
 
-📍 Criciúma, Santa Catarina, Brasil
+**Desenvolvedor Full Stack**
+
+Criciúma, Santa Catarina, Brasil
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-comin/)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DiogoGraciano)
@@ -12,19 +12,19 @@
 
 </div>
 
-## 👋 Sobre Mim
+---
 
-Sou **Desenvolvedor Full Stack** com sólida experiência em **PHP**, **Laravel**, **JavaScript**, **React** e **React Native**. Atuo no desenvolvimento completo de projetos desde a concepção até a implantação em produção, com domínio em todas as etapas do ciclo de desenvolvimento, incluindo implementação, testes, configuração e publicação em servidores VPS, hospedagens tradicionais e **AWS (Amazon Web Services)**.
+## Sobre
 
-Além do desenvolvimento técnico, exerço **liderança técnica** em equipes de desenvolvimento web, conduzindo code reviews, realizando divisão estratégica de tarefas, definição de arquitetura e orientação de boas práticas. Essa experiência me proporcionou habilidades sólidas em gestão técnica, organização de times e entrega de projetos dentro do prazo estabelecido, mantendo altos padrões de qualidade.
+Desenvolvedor Full Stack com experiência em **PHP**, **Laravel**, **JavaScript**, **React** e **React Native**. Atuo no ciclo completo — da concepção à implantação em produção — com domínio em servidores VPS, hospedagens tradicionais e AWS.
 
-Possuo experiência comprovada na **otimização de plataformas de e-commerce**, realizando integrações complexas com meios de pagamento, sistemas de entrega e ferramentas de marketing, além de desenvolver novas funcionalidades que aprimoram significativamente a experiência do usuário e aumentam a eficiência operacional do negócio.
+Experiência em liderança técnica: code reviews, definição de arquitetura, orientação de boas práticas e otimização de plataformas de e-commerce com integrações de pagamento, entrega e marketing.
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Stack
 
-### Linguagens de Programação
+### Linguagens
 
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -42,6 +42,7 @@ Possuo experiência comprovada na **otimização de plataformas de e-commerce**,
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Elysia](https://img.shields.io/badge/-Elysia-A855F7?style=for-the-badge&logo=bun&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Banco de Dados
@@ -52,7 +53,7 @@ Possuo experiência comprovada na **otimização de plataformas de e-commerce**,
 ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-### Ferramentas e Tecnologias
+### Ferramentas
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -64,93 +65,17 @@ Possuo experiência comprovada na **otimização de plataformas de e-commerce**,
 
 ---
 
-## 🎯 Projetos em Destaque
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔒 LuaEngineLaravel
-Um motor seguro de execução de scripts Lua para aplicações Laravel usando a extensão PHP LuaSandbox.
-
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/DiogoGraciano/LuaEngineLaravel)
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/DiogoGraciano/LuaEngineLaravel)
-[![Repo](https://img.shields.io/badge/-Repositório-181717?style=flat-square&logo=github)](https://github.com/DiogoGraciano/LuaEngineLaravel)
-
-</td>
-<td width="50%">
-
-### 📄 NfePhpLaravel
-Pacote Laravel para integração com NFePHP, facilitando a emissão de NFe e NFCe.
-
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/DiogoGraciano/NfePhpLaravel)
-[![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)](https://github.com/DiogoGraciano/NfePhpLaravel)
-[![Repo](https://img.shields.io/badge/-Repositório-181717?style=flat-square&logo=github)](https://github.com/DiogoGraciano/NfePhpLaravel)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🏗️ NeoFramework
-Framework PHP moderno e robusto com arquitetura limpa, roteamento avançado e gerenciamento de banco de dados.
-
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)](https://github.com/DiogoGraciano/NeoFramework)
-[![Repo](https://img.shields.io/badge/-Repositório-181717?style=flat-square&logo=github)](https://github.com/DiogoGraciano/NeoFramework)
-
-</td>
-<td width="50%">
-
-### 📱 EasyOrder - Mobile
-Frontend em React Native para gerenciamento de pedidos, clientes, empresas e produtos.
-
-[![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)](https://github.com/DiogoGraciano/EasyOrder-React-Native)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/DiogoGraciano/EasyOrder-React-Native)
-[![Repo](https://img.shields.io/badge/-Repositório-181717?style=flat-square&logo=github)](https://github.com/DiogoGraciano/EasyOrder-React-Native)
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🔧 EasyOrder - Backend (NestJS)
-API REST construída com NestJS para gerenciamento de pedidos e clientes.
-
-[![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)](https://github.com/DiogoGraciano/EasyOrder-Backend)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://github.com/DiogoGraciano/EasyOrder-Backend)
-[![Repo](https://img.shields.io/badge/-Repositório-181717?style=flat-square&logo=github)](https://github.com/DiogoGraciano/EasyOrder-Backend)
-
-</td>
-<td width="50%">
-
-### ⚙️ EasyOrder - Backend (ASP.NET)
-API REST construída com ASP.NET Core para gerenciamento de pedidos e clientes.
-
-[![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)](https://github.com/DiogoGraciano/EasyOrderCs)
-[![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)](https://github.com/DiogoGraciano/EasyOrderCs)
-[![Repo](https://img.shields.io/badge/-Repositório-181717?style=flat-square&logo=github)](https://github.com/DiogoGraciano/EasyOrderCs)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📈 Gráfico de Contribuições
+## Contribuições
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiogoGraciano&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&title_color=70A5FD" alt="GitHub Activity Graph" />
 </div>
 
-> **Nota:** Se as estatísticas não carregarem, pode ser instabilidade temporária dos serviços. Tente atualizar a página.
-
 ---
 
-## 📞 Entre em Contato
+## Contato
 
 <div align="center">
-
-Se você tem um projeto interessante ou quer trocar uma ideia, entre em contato!
 
 [![Email](https://img.shields.io/badge/-diogo.dg691@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogo.dg691@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-Diogo%20Comin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-comin/)
@@ -161,12 +86,4 @@ Se você tem um projeto interessante ou quer trocar uma ideia, entre em contato!
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DiogoGraciano&color=blueviolet&style=for-the-badge&label=VISUALIZAÇÕES+DO+PERFIL" alt="Profile views" />
-</div>
-
----
-
-<div align="center">
-  
-⭐ **Obrigado por visitar meu perfil!** ⭐
-
 </div>
