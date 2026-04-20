@@ -16,7 +16,7 @@ Criciúma, Santa Catarina, Brasil
 
 ## Sobre
 
-Desenvolvedor Full Stack com experiência em **PHP**, **Laravel**, **JavaScript**, **TypeScript**, **React** e **React Native**. Atuo no ciclo completo — da concepção à implantação em produção — com domínio em servidores VPS, hospedagens tradicionais e AWS.
+Desenvolvedor Full Stack com experiência em **PHP**, **Laravel**, **JavaScript**, **TypeScript**, **React** e **React Native**. Atuo no ciclo completo da concepção à implantação em produção com domínio em servidores VPS, hospedagens tradicionais e AWS.
 
 Experiência em liderança técnica: code reviews, definição de arquitetura, orientação de boas práticas e otimização de plataformas de e-commerce com integrações de pagamento, entrega e marketing.
 
