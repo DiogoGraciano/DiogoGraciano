@@ -43,6 +43,8 @@ Experiência em liderança técnica: code reviews, definição de arquitetura, o
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Elysia](https://img.shields.io/badge/-Elysia-A855F7?style=for-the-badge&logo=bun&logoColor=white)
+![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
+![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Banco de Dados
