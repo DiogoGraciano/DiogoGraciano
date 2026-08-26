@@ -1,0 +1,34 @@
+name: Profile Cards
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  cards:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v7
+
+      - name: Gerar estatísticas do perfil
+        uses: seijikohara/profile-cards-action@v0
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          username: DiogoGraciano
+
+          cards: overview,contributions,languages,rhythm
+
+          output-dir: assets/profile
+
+          themes: light,dark
+
+          commit: true
+
+          commit-message: "chore: atualiza estatísticas do perfil [skip ci]"
