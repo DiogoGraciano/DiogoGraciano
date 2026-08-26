@@ -31,7 +31,6 @@ Experiência em liderança técnica: code reviews, definição de arquitetura, o
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Frameworks e Bibliotecas
 
@@ -45,7 +44,6 @@ Experiência em liderança técnica: code reviews, definição de arquitetura, o
 ![Elysia](https://img.shields.io/badge/-Elysia-A855F7?style=for-the-badge&logo=bun&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=for-the-badge&logo=ionic&logoColor=white)
 ![Capacitor](https://img.shields.io/badge/-Capacitor-119EFF?style=for-the-badge&logo=capacitor&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### Banco de Dados
 
@@ -64,14 +62,6 @@ Experiência em liderança técnica: code reviews, definição de arquitetura, o
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Magento](https://img.shields.io/badge/-Magento-EE672F?style=for-the-badge&logo=magento&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-
----
-
-## Contribuições
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DiogoGraciano&bg_color=0D1117&color=70A5FD&line=BF91F3&point=38BDAE&area=true&hide_border=true&title_color=70A5FD" alt="GitHub Activity Graph" />
-</div>
 
 ---
 
