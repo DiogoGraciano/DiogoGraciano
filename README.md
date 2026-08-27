@@ -124,63 +124,12 @@ Tenho experiência com **sistemas multi-tenant, APIs REST, integrações externa
 
 ## O que costumo desenvolver
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Backend & APIs
-
-* APIs REST
-* Arquiteturas modulares
-* Autenticação e autorização
-* Webhooks
-* Integrações externas
-* Processamento assíncrono
-* Filas e workers
-
-</td>
-<td width="50%" valign="top">
-
-### SaaS & Infra
-
-* Aplicações multi-tenant
-* Docker e containers
-* CI/CD
-* Servidores Linux
-* Deploy em produção
-* Cloud
-* Monitoramento
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### Frontend
-
-* Aplicações SPA
-* Dashboards
-* Sistemas administrativos
-* Interfaces responsivas
-* Gerenciamento de estado
-* Integração com APIs
-
-</td>
-<td width="50%" valign="top">
-
-### Mobile
-
-* Aplicações híbridas
-* React Native
-* Ionic
-* Capacitor
-* Integração com APIs
-* Publicação mobile
-
-</td>
-</tr>
-</table>
+| Área | Principais entregas |
+| :--- | :--- |
+| **Backend & APIs** | APIs REST · Arquiteturas modulares · Autenticação e autorização · Webhooks · Integrações externas · Processamento assíncrono · Filas e workers |
+| **SaaS & Infra** | Aplicações multi-tenant · Docker e containers · CI/CD · Servidores Linux · Deploy em produção · Cloud · Monitoramento |
+| **Frontend** | Aplicações SPA · Dashboards · Sistemas administrativos · Interfaces responsivas · Gerenciamento de estado · Integração com APIs |
+| **Mobile** | Aplicações híbridas · React Native · Ionic · Capacitor · Integração com APIs · Publicação nas lojas |
 
 ---
 

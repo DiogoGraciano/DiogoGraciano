@@ -1,6 +1,10 @@
 name: Profile Cards
 
 on:
+  push:
+    branches:
+      - main
+
   schedule:
     - cron: "0 3 * * *"
 
